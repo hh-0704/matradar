@@ -4,6 +4,8 @@
 
 운영 중 — **https://matradar.net** (모바일 웹)
 
+**1인 개발** · 개발 기간 2026.05 ~ 2026.11 (약 7개월) — 2026.11 운영 시작 후 계속 개선 중입니다.
+
 | 첫 방문 소개 — 5점을 눌렀을 때 | 홈 | 가게 상세 | 주변 지도 |
 |:---:|:---:|:---:|:---:|
 | <img src="./docs/images/intro-rating.png" width="200" alt="첫 방문 소개 화면에서 5점을 고르면 별이 무지개색으로 바뀌고 경고가 뜬다"> | <img src="./docs/images/home.png" width="200" alt="홈 — 검색창과 핫한 논쟁·트렌딩·최근 추가 섹션"> | <img src="./docs/images/place-detail.png" width="200" alt="가게 상세 — 외부 플랫폼 링크와 실방문 리뷰"> | <img src="./docs/images/nearby.png" width="200" alt="주변 — 풀스크린 지도와 가게 핀"> |
